@@ -1,0 +1,9 @@
+{
+  "startTime": "2025-04-02_0101",
+  "endTime": "2025-04-02_1111",
+  "url": "https://care-rc.wisleep-eck.org",
+  "data_list": [
+    "pHistBytes_.bin"
+  ],
+  "timeout": 60000
+}
